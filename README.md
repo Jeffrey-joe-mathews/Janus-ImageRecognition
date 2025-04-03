@@ -1,2 +1,1 @@
 # Janus-ImageRecognition
-# Janus-ImageRecognition
